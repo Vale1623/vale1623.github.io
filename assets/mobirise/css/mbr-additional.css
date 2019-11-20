@@ -1098,20 +1098,45 @@ section.lazy-placeholder:after {
   color: #8b8b8b;
   text-align: center;
 }
-.cid-rIkbAyf9gn {
-  padding-top: 60px;
-  padding-bottom: 60px;
+.cid-rIkd9zaydU {
+  padding-top: 90px;
+  padding-bottom: 90px;
   background-color: #000000;
 }
-.cid-rIkbAyf9gn .mbr-text,
-.cid-rIkbAyf9gn blockquote {
-  color: #767676;
+.cid-rIkd9zaydU .card-box {
+  background-color: #232323;
+  padding: 2rem;
 }
-.cid-rIkbAyf9gn .mbr-text {
+.cid-rIkd9zaydU h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-rIkd9zaydU p {
+  color: #767676;
+  text-align: left;
+}
+.cid-rIkd9zaydU .card-wrapper {
+  position: relative;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
+}
+.cid-rIkd9zaydU .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s;
+}
+.cid-rIkd9zaydU .card-img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+}
+.cid-rIkd9zaydU .card-title {
   color: #8b8b8b;
 }
-.cid-rIkbAyf9gn .mbr-text P {
-  text-align: center;
+.cid-rIkd9zaydU P {
+  color: #8b8b8b;
 }
 .cid-rIcdyHMB24 {
   padding-top: 45px;
